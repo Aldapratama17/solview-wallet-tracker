@@ -13,7 +13,7 @@ A dedicated airdrop tracker for Solana wallets. Paste any address and see a full
 
 Solana has distributed billions in airdrops. Most users have no clean way to see what they've received across their wallets. This solves that.
 
-**Live demo:** `[your-deployed-url-here]`
+**Live demo:** https://sol-view.netlify.app/
 
 ## Features
 
